@@ -10,3 +10,5 @@ Additionally, do we aim at testing whether the items are parallel? If yes, they 
 (1) equal means
 (2) equal standard deviations
 (3) equal correlations with other items in the instrument.
+
+It could be nice to implement some visualization of the results using ggplot2.
