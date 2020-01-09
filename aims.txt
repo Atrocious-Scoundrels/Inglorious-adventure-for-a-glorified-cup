@@ -3,3 +3,5 @@ I think that we should start with creating a general function which compares ite
 (2) variance of differences between respective correlations (probably based on raw difference, but it has to be further analysed)
 
 At the begining raw correlationsh should be ok, but in the final version we should use Fisher Z-transformation for all analyses.
+
+The question is whether we should focus on looking match for certain items (e.g., items with similar pattern as ITEM 1) or all possible matches?
