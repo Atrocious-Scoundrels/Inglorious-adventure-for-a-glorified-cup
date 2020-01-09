@@ -5,3 +5,8 @@ I think that we should start with creating a general function which compares ite
 At the begining raw correlationsh should be ok, but in the final version we should use Fisher Z-transformation for all analyses.
 
 The question is whether we should focus on looking match for certain items (e.g., items with similar pattern as ITEM 1) or all possible matches?
+
+Additionally, do we aim at testing whether the items are parallel? If yes, they should also meet the following criteria:
+(1) equal means
+(2) equal standard deviations
+(3) equal correlations with other items in the instrument.
